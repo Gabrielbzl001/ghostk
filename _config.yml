@@ -1,11 +1,11 @@
-title: My title
+title: Bem-vindo ao blod
 author: Gbb
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Bla bla bla
+  Essa é a descrição do blod
 theme: minima
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: yasdasd # DO NOT include the @ character, or else the build will fail!
+github_username:  yasdasdhandle # DO NOT include the @ character, or else the build will fail!
 #close 2
 show_excerpts: true # set to false to remove excerpts on the homepage
