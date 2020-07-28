@@ -3,7 +3,7 @@ body {
 }
 
 .menu {
-  display:inline;
+  display:grid;
   border: 3px solid black;
   padding: 10px;
   width: 80px;
