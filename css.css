@@ -1,5 +1,9 @@
 body{
   display:flex
-  border: solid 20px black
-  padding: 10px
+}
+
+div{
+  display:flex;
+  border: solid 20px black;
+  padding: 10px;
 }
