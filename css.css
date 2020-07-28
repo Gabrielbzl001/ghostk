@@ -11,6 +11,3 @@ body {
 a:clicked {
 bacground-color: yellow;
 }
-a:hover {
-background-color: red;
-}
