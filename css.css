@@ -1,9 +1,15 @@
-body{
+body {
   display:flex
 }
 
-div{
+div {
   display:flex;
   border: 10px solid black;
   padding: 10px;
+}
+a:click {
+color: yellow;
+}
+a:hover {
+color: red;
 }
