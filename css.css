@@ -5,10 +5,8 @@ body {
 .menu {
   display:grid;
   border: 3px solid blue;
-  color: blue;
-  text-align:center;
   width: 95px;
-  margin: 12px;
+  margin: 9px;
 }
 a{
   font-family:arial;
