@@ -5,10 +5,12 @@ body {
 .menu {
   display:flex;
   border: 3px solid black;
-  background-color: blue;
+  color: blue;
   padding: 10px;
   width: 80px;
 }
 a{
+  font-family:arial;
+  text-align:center;
 color:black;
 }
