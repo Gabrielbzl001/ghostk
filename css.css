@@ -6,6 +6,7 @@ body {
   display:grid;
   border: 3px solid blue;
   width: 95px;
+  padding:10px;
   margin: 9px;
 }
 a{
