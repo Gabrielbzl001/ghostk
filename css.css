@@ -6,8 +6,9 @@ body {
   display:grid;
   border: 3px solid blue;
   color: blue;
-  padding: 30px;
+  text-align:center;
   width: 95px;
+  margin: 3px;
 }
 a{
   font-family:arial;
