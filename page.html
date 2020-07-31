@@ -21,7 +21,8 @@
     var n1= parseInt(document.getElementById('n1').value);
     var n2= parseInt(document.getElementById('n2').value);
     var r = document.getElementById('r');
-    r.innerHTML = n1+n2;
+    var f = n1+n2;
+    if(f > 0) r.innerHTML = f;
     r.style.display = "inline";
    }
  </script>
